@@ -14,4 +14,5 @@ Look into the CSS property `clip-path: polygon`
 
 - Create `btn1` using box-shadow
 - Create `btn2` without using box-shadow
+- On the fourth exercise with the gray square, make sure the 'Hello!' has a transition effect as well
 - The four shapes on the 5th exercise are: *square, circle, triangle, pentagon*
