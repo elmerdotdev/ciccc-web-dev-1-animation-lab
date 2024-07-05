@@ -8,7 +8,7 @@ Recreate the different animations and transitions using SCSS. You are **NOT** al
 
 - Create `btn1` using box-shadow
 - Create `btn2` without using box-shadow
-- On the fourth exercise with the gray square, make sure the 'Hello!' has a fade effect as well
+- On the fourth exercise with the gray square, make sure the "Hello!" has a fade effect as well
 - The four shapes on the 5th exercise are: *square, circle, triangle, pentagon*. Look into the CSS property `clip-path`
 
 **Sass command:**
