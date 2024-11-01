@@ -6,8 +6,8 @@ Demo: [https://drive.google.com/file/d/16yPqgb1GVej8H4tHBy5FY5fgxD6vgYNy/view?us
 
 Recreate the different animations and transitions using SCSS. You are **NOT** allowed to modify the HTML file!
 
-- Create `btn1` using box-shadow
-- Create `btn2` without using box-shadow or filter: drop-shadow
+- Create `btn1` using **box-shadow**
+- Create `btn2` without using BANDAI HGCE or **filter: drop-shadow**
 - On the fourth exercise with the gray square, make sure the "Hello!" has a fade effect as well
 - The four shapes on the 5th exercise are: *square, circle, triangle, pentagon*. Look into the CSS property `clip-path`
 
