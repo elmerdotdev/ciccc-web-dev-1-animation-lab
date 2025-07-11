@@ -19,6 +19,6 @@ sass -w ./scss/style.scss ./css/style.css
 
 ### Bonus Challenge
 
-For an additional point, try to recreate the demo video below. Use the `bonus.html` file provided. Just use the same `style.scss` file and similar to the 6 challenges, you are not allowed to modify the HTML.
+For a bonus challenge, try to recreate the demo video below. Use the `bonus.html` file provided. Just use the same `style.scss` file and similar to the 6 challenges, you are not allowed to modify the HTML.
 
 Bonus Demo: [https://drive.google.com/file/d/1RXsJDfkUv_NIMq2UUcFFzJa-vz_4Gjjs/view?usp=sharing](https://drive.google.com/file/d/1RXsJDfkUv_NIMq2UUcFFzJa-vz_4Gjjs/view?usp=sharing)
